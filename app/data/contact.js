@@ -7,7 +7,7 @@ import faTwitter from '@fortawesome/fontawesome-free-brands/faTwitter';
 import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
-  {
+  /*{
     link: 'https://github.com/mldangelo',
     label: 'Github',
     icon: faGithub,
@@ -16,18 +16,18 @@ const data = [
     link: 'https://facebook.com/d',
     label: 'Facebook',
     icon: faFacebook,
-  },
+  },*/
   {
-    link: 'https://www.instagram.com/dangelosaurus/',
+    link: 'https://www.instagram.com/huanghe_martin/',
     label: 'Instagram',
     icon: faInstagram,
   },
   {
-    link: 'https://www.linkedin.com/in/michaelldangelo',
+    link: 'https://www.linkedin.com/in/he-martin-huang-199a02136/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
-  {
+  /*{
     link: 'https://angel.co/michael-d-angelo',
     label: 'Angel List',
     icon: faAngellist,
@@ -36,9 +36,9 @@ const data = [
     link: 'https://twitter.com/dangelosaurus',
     label: 'Twitter',
     icon: faTwitter,
-  },
+  },*/
   {
-    link: 'mailto:michael.l.dangelo@gmail.com',
+    link: 'mailto:martinhehuang@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

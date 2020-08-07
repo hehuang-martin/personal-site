@@ -1,13 +1,13 @@
 const data = [
   {
     path: '/',
-    label: 'Michael D\'Angelo',
+    label: 'He Huang',
     index: true,
   },
-  {
+  /*{
     path: '/about',
     label: 'About',
-  },
+  },*/
   {
     path: '/resume',
     label: 'Resume',
@@ -16,10 +16,10 @@ const data = [
     path: '/projects',
     label: 'Projects',
   },
-  {
+  /*{
     path: '/stats',
     label: 'Stats',
-  },
+  },*/
   {
     path: '/contact',
     label: 'Contact',
